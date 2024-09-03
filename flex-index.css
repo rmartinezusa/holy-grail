@@ -1,0 +1,36 @@
+
+.head-class {
+    text-align: center;
+    background-color: #1E201E;
+    color: #FBF6E2;
+    padding: 15px;
+}
+
+.flex-container {
+    display: flex;
+    height: 100vh;
+
+}
+
+.left-sidebar {
+    background-color: #697565;
+    flex: 1;
+}
+
+.center-content {
+background-color: #FBF6E2;
+color: #3C3D37;
+flex: 5;
+}
+
+.right-sidebar {
+    background-color:#697565;
+    flex: 1;
+}
+
+.foot-class {
+    text-align: center;
+    background-color: #3C3D37;
+    color: #FBF6E2;
+    padding: 15px;
+}
